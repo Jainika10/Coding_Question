@@ -1,0 +1,4 @@
+def Greet():
+ pass
+
+Greet()
