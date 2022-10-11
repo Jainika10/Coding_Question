@@ -8,3 +8,4 @@ def add():
 add()
 
 print(hello)
+print("hello 2")
