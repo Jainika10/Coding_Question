@@ -7,3 +7,4 @@ def add():
     pass
 add()
 
+print(hello)
